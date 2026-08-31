@@ -1,0 +1,6 @@
+{
+  "name": "MarqueeOps",
+  "description": "A client operations command center for boutique marketing agencies, with role-aware access, portfolio health reporting, audit trails, and AI-assisted insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
